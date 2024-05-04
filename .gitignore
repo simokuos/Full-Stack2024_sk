@@ -1,1 +1,4 @@
 .node.sh
+.npm.sh
+node-*-linux-x64/
+*node_modules/
